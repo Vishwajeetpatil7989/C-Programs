@@ -1,2 +1,2 @@
 # C Programs
-Hello World, this is my profile
+Hello World, here you can all C programs I have wrote.
